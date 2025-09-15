@@ -26,3 +26,4 @@ A responsive and user-friendly food delivery web application built using **React
 
 
 
+<!-- https://docs.stripe.com/testing#international-cards -->
